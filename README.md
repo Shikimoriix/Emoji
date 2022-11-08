@@ -1,4 +1,3 @@
-L<div align="center">
 <h2 align="center">
     ─「 Emoji 」─
 </h2>
@@ -6,7 +5,7 @@ L<div align="center">
 > Welcome, Friends.
 These blobs/emoji were sourced from https://blobs.gg under the same **Apache License** used for this website and repository.
 
-
+<div align="center">
 <h3 align="center">
     ─「 List Of All Emoji 」─
 </h3>
