@@ -1,13 +1,9 @@
+L<div align="center">
 <h2 align="center">
     ─「 Emoji 」─
 </h2>
 
 > Welcome, friend. These blobs/emoji were sourced from https://blobs.gg under the same **Apache License** used for this website and repository.
-
-<h3 align="center">
-    ─「 Usage 」─
-</h3>
-Just link the relevant emoji (i.e. https://emoj.ml/blobheart.png). I'm still working on making this easier.
 
 <h3 align="center">
     ─「 List Of All Emoji 」─
