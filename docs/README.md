@@ -1,14 +1,15 @@
-# emoj.ml
-### Welcome, friend.
-These blobs/emoji were sourced from https://blobs.gg under the same Apache License used for this website and repository.
+<h2 align="center">
+    ─「 Emoji 」─
+</h2>
 
-## Usage
-Just link the relevant emoji (i.e. https://emoj.ml/blobheart.png). I'm still working on making this easier.
+> Welcome, Friends.
+These blobs/emoji were sourced from https://blobs.gg under the same **Apache License** used for this website and repository.
 
-## Download
-You can download everything on this site from the GitHub [repo](https://github.com/Raymo111/emoji/archive/main.zip)
+<div align="center">
+<h3 align="center">
+    ─「 List Of All Emoji 」─
+</h3>
 
-## List of all emoji
 Dynamically updated by a GitHub Action
 
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>-->
@@ -612,24 +613,4 @@ Emoji | Link
 ![pusheenblob.png](https://emoj.ml/pusheenblob.png) | [https://emoj.ml/pusheenblob.png](https://emoj.ml/pusheenblob.png)
 ![rainblob.png](https://emoj.ml/rainblob.png) | [https://emoj.ml/rainblob.png](https://emoj.ml/rainblob.png)
 ![redtick.png](https://emoj.ml/redtick.png) | [https://emoj.ml/redtick.png](https://emoj.ml/redtick.png)
-![reindeerblob.png](https://emoj.ml/reindeerblob.png) | [https://emoj.ml/reindeerblob.png](https://emoj.ml/reindeerblob.png)
-![rickblob.png](https://emoj.ml/rickblob.png) | [https://emoj.ml/rickblob.png](https://emoj.ml/rickblob.png)
-![rolling_eye_monkey.png](https://emoj.ml/rolling_eye_monkey.png) | [https://emoj.ml/rolling_eye_monkey.png](https://emoj.ml/rolling_eye_monkey.png)
-![screaming_ghost.png](https://emoj.ml/screaming_ghost.png) | [https://emoj.ml/screaming_ghost.png](https://emoj.ml/screaming_ghost.png)
-![screaming_monkey.png](https://emoj.ml/screaming_monkey.png) | [https://emoj.ml/screaming_monkey.png](https://emoj.ml/screaming_monkey.png)
-![smiley_monkey.png](https://emoj.ml/smiley_monkey.png) | [https://emoj.ml/smiley_monkey.png](https://emoj.ml/smiley_monkey.png)
-![smiling_imp_monkey.png](https://emoj.ml/smiling_imp_monkey.png) | [https://emoj.ml/smiling_imp_monkey.png](https://emoj.ml/smiling_imp_monkey.png)
-![squirrel.png](https://emoj.ml/squirrel.png) | [https://emoj.ml/squirrel.png](https://emoj.ml/squirrel.png)
-![stupid_monkey.png](https://emoj.ml/stupid_monkey.png) | [https://emoj.ml/stupid_monkey.png](https://emoj.ml/stupid_monkey.png)
-![superblob.png](https://emoj.ml/superblob.png) | [https://emoj.ml/superblob.png](https://emoj.ml/superblob.png)
-![thinking_monkey.png](https://emoj.ml/thinking_monkey.png) | [https://emoj.ml/thinking_monkey.png](https://emoj.ml/thinking_monkey.png)
-![thinkingwithblobs.png](https://emoj.ml/thinkingwithblobs.png) | [https://emoj.ml/thinkingwithblobs.png](https://emoj.ml/thinkingwithblobs.png)
-![thonk.png](https://emoj.ml/thonk.png) | [https://emoj.ml/thonk.png](https://emoj.ml/thonk.png)
-![thumbsup_all.gif](https://emoj.ml/thumbsup_all.gif) | [https://emoj.ml/thumbsup_all.gif](https://emoj.ml/thumbsup_all.gif)
-![tired_monkey.png](https://emoj.ml/tired_monkey.png) | [https://emoj.ml/tired_monkey.png](https://emoj.ml/tired_monkey.png)
-![triumphant_monkey.png](https://emoj.ml/triumphant_monkey.png) | [https://emoj.ml/triumphant_monkey.png](https://emoj.ml/triumphant_monkey.png)
-![unamused_monkey.png](https://emoj.ml/unamused_monkey.png) | [https://emoj.ml/unamused_monkey.png](https://emoj.ml/unamused_monkey.png)
-![vomit_monkey.png](https://emoj.ml/vomit_monkey.png) | [https://emoj.ml/vomit_monkey.png](https://emoj.ml/vomit_monkey.png)
-![wolfiriblob.png](https://emoj.ml/wolfiriblob.png) | [https://emoj.ml/wolfiriblob.png](https://emoj.ml/wolfiriblob.png)
-![worried_monkey.png](https://emoj.ml/worried_monkey.png) | [https://emoj.ml/worried_monkey.png](https://emoj.ml/worried_monkey.png)
-![wumpusblob.png](https://emoj.ml/wumpusblob.png) | [https://emoj.ml/wumpusblob.png](https://emoj.ml/wumpusblob.png)
+![© AL3X-Github](https://emoj.ml/© AL3X-Github) | [https://emoj.ml/© AL3X-Github](https://emoj.ml/© AL3X-Github)
