@@ -3,7 +3,10 @@ L<div align="center">
     ─「 Emoji 」─
 </h2>
 
-> Welcome, friend. These blobs/emoji were sourced from https://blobs.gg under the same **Apache License** used for this website and repository.
+```
+Welcome, Friends.
+These blobs/emoji were sourced from https://blobs.gg under the same **Apache License** used for this website and repository.
+```
 
 <h3 align="center">
     ─「 List Of All Emoji 」─
