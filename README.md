@@ -634,3 +634,4 @@ Emoji | Link
 ![wolfiriblob.png](https://emoj.ml/wolfiriblob.png) | [https://emoj.ml/wolfiriblob.png](https://emoj.ml/wolfiriblob.png)
 ![worried_monkey.png](https://emoj.ml/worried_monkey.png) | [https://emoj.ml/worried_monkey.png](https://emoj.ml/worried_monkey.png)
 ![wumpusblob.png](https://emoj.ml/wumpusblob.png) | [https://emoj.ml/wumpusblob.png](https://emoj.ml/wumpusblob.png)
+![© AL3X-Github](https://emoj.ml/© AL3X-Github) | [https://emoj.ml/© AL3X-Github](https://emoj.ml/© AL3X-Github)
