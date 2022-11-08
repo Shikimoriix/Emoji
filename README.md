@@ -10,7 +10,7 @@ These blobs/emoji were sourced from https://blobs.gg under the same **Apache Lic
     ─「 List Of All Emoji 」─
 </h3>
 
-Dynamically updated by a GitHub Action
+> Dynamically Updated Ba a GitHub Action.
 
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>-->
 
